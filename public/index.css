@@ -1,0 +1,26 @@
+.nav-wrapper {
+  padding: 0 50px;
+}
+.price {
+  font-size: 22px;
+}
+.course {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.course__title {
+  font-size: 5rem;
+}
+.course__img {
+  max-width: 300px;
+}
+.big {
+  font-size: 30px;
+}
+.action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
